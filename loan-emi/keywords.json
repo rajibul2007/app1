@@ -1,0 +1,14 @@
+{
+    "loan-emi": {
+        "primary": "loan emi calculator",
+        "secondary": ["personal loan calculator", "home loan emi", "car loan calculator"],
+        "difficulty": 35,
+        "volume": 12000
+    },
+    "gst": {
+        "primary": "gst calculator india",
+        "secondary": ["goods service tax calculator", "gst calculation online"],
+        "difficulty": 42,
+        "volume": 8500
+    }
+}
