@@ -1,0 +1,25 @@
+/* Mobile-first approach */
+.calculator-input {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+@media (min-width: 768px) {
+    .calculator-container {
+        padding: 2rem;
+    }
+    
+    .ad-unit {
+        display: block !important;
+    }
+}
+
+/* Print Optimization */
+@media print {
+    .ad-unit, .sidebar {
+        display: none !important;
+    }
+}
