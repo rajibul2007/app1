@@ -1,0 +1,36 @@
+public_html/
+├── calculators/
+│   ├── loan-emi/
+│   │   ├── index.html
+│   ├── sip-inflation/
+│   │   ├── index.html
+│   ├── nps-vatsalya/
+│   │   ├── index.html
+│   ├── ... (all other calculators)
+├── includes/
+│   ├── header.html
+│   ├── footer.html
+│   ├── ads/
+│   │   ├── top-ad.html
+│   │   ├── sidebar-ad.html
+├── assets/
+│   ├── css/
+│   │   ├── main.min.css
+│   │   ├── calculators/
+│   │   │   ├── financial.min.css
+│   ├── js/
+│   │   ├── main.min.js
+│   │   ├── calculators/
+│   │   │   ├── loan-emi.min.js
+│   │   │   ├── sip-inflation.min.js
+│   ├── images/
+│   │   ├── icons/
+│   │   │   ├── loan-emi.svg
+│   │   │   ├── gst.svg
+├── seo-config/
+│   ├── keywords.json
+│   ├── schema-templates.json
+├── .htaccess
+├── robots.txt
+├── sitemap.xml
+├── ads.txt
